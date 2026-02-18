@@ -1,2 +1,2 @@
 # GroundedGPT
-Ai Sponsor 
+AI-powered relapse prevention and digital sponsor platform.
